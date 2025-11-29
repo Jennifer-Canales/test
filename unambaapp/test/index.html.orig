@@ -7,6 +7,14 @@
 </head>
 <body>
     hola p4merge lo maximo <br> 
-
+<<<<<<< HEAD
+    desde mi ordenador
+    linea 9
+=======
+    add commit
+    linea 9 pr ahora
+    rhbvhubfkdnhfdnlfd
+    
+>>>>>>> e115a316d0fd8db11760c6a4dddbd7df48c32252
 </body>
 </html>m

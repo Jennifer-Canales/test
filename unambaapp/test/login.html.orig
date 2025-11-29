@@ -3,8 +3,10 @@
     <input type="code">
     <p>nombre</p>
     <input type="name">
-
-    <input type="details">
-
+<<<<<<< HEAD
     <input type="age">
 </form>
+=======
+    <input type="details">
+</form>
+>>>>>>> e115a316d0fd8db11760c6a4dddbd7df48c32252
